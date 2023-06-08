@@ -8,6 +8,6 @@ Two XDC files are needed, one for FPGA1 and one for FPGA0. They cannot be interc
 
 ![ArtixDuo Top](https://i.imgur.com/a/yqzlAJK.png)
 
-![ArtixDuo Bottom](https://i.imgur.com/a/sgbUsiE.png)
+![ArtixDuo Bottom](https://imgur.com/jNDjfVh.png)
 
 ![Assembled Board](https://i.imgur.com/a/e3cQS18.jpg)
