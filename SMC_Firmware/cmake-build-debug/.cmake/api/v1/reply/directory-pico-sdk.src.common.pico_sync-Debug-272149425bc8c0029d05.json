@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/common/pico_sync",
+		"source" : "/Users/john/Desktop/RP2040/pico-sdk/src/common/pico_sync"
+	}
+}
