@@ -66,6 +66,6 @@ The DC-DC converter is configured to operate at 2Mhz Burst Mode.
 
 ![ArtixDuo Bottom (Rev2)](https://imgur.com/wn1rjKm.png)
 
-**Assembled Board**
+**Assembled Rev1 Board**
 
 ![Assembled Board (Rev1)](https://imgur.com/jNDjfVh.jpg)
