@@ -1,6 +1,7 @@
 # ArtixDuo
 A Dual Artix-7 FPGA board intended for developing Chip-Chip interface busses and advanced FPGA projects
 
+**Overview**
 This board is currently on Rev 2. As testing and bringup continue, more changes may be made. Original Altium Files have been provided along with a PDF schematic file. Vivado XDC files will be added. 
 
 Two XDC files are needed, one for FPGA1 and one for FPGA0. They cannot be interchanged!
@@ -45,6 +46,10 @@ FPGA1 has acess to the following IO:
 - SPI Bus to SMC
 - 4 User buttons
 - 8 user LED's
+
+**Power**
+A LTCC3370 is used to provide the 4 power rails for each FPGA (3.3V, 1.8V, 1.2V and 1.0V). Each rail is capable of supplying up to 2A. In the event that more power is needed, an addon board will be required to provide suplemental power. With the current Artix-7 35T chips, this should not be needed, however these chips are pin compatible with specific 50T and 75T parts. If these parts were to be used, suplemental power may be needed. 
+The DC-DC converter is configured to operate at 2Mhz Burst Mode.
 
 ![ArtixDuo Top (Rev2)](https://imgur.com/InKgrNF.png)
 
