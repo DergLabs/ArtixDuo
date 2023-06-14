@@ -60,7 +60,7 @@ The DC-DC converter is configured to operate at 2Mhz Burst Mode.
 
 **Top View**
 
-![ArtixDuo Top (Rev2)](https://imgur.com/InKgrNF.png)
+![ArtixDuo Top (Rev2)](https://imgur.com/k3B1New.png)
 
 **Bottom View** 
 
@@ -69,3 +69,9 @@ The DC-DC converter is configured to operate at 2Mhz Burst Mode.
 **Assembled Rev1 Board**
 
 ![Assembled Board (Rev1)](https://imgur.com/jNDjfVh.jpg)
+
+**TODO For Rev 2:**
+
+- Add Via Stitching to High speed serial traces at layer transitions
+- Add delay matching to Chip-chip bus
+- Add delay matching to FPGA-MCU busses
